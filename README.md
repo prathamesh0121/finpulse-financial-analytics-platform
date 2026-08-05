@@ -1,6 +1,3 @@
-# finpulse-financial-analytics-platform
-Real-Time Financial Analytics &amp; Transaction Monitoring Platform built with Java, Spring Boot, React, MySQL, JWT, and Docker.
-
 # FinPulse - Real-Time Financial Analytics & Transaction Monitoring Platform
 
 FinPulse is a full-stack financial analytics platform designed to process, monitor, and analyze financial transactions in real time. The application provides secure transaction management, role-based access control, analytics dashboards, reporting, and monitoring capabilities.
